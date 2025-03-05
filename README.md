@@ -17,6 +17,11 @@ npm init @open-wc
 
 ## Scripts
 
+![screencapture-localhost-8002-src-pages-location-page-index-html-2025-03-04-20_24_48](https://github.com/user-attachments/assets/a1f39b14-4d85-40f3-9f72-5163964aca76)
+
+
+
+
 - `start` runs your app for development, reloading on file changes
 - `start:build` runs your app after it has been built using the build command
 - `build` builds your app and outputs it in your `dist` directory
